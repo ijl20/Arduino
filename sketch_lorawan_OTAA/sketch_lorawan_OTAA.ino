@@ -1,3 +1,5 @@
+#define DEBUG 1
+
 #include <Sodaq_RN2483_internal.h>
 #include <Utils.h>
 
@@ -8,6 +10,7 @@
 
 #define LORA_BAUD 57600
 #define DEBUG_BAUD 57600
+
 
 #define LORA_RESET_PIN 4 // Sodaq Explorer Rev 3 only !!
 
