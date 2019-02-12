@@ -1,0 +1,66 @@
+{
+    "1": {
+        "app_id": "ijl20-test-app",
+        "counter": 39,
+        "dev_id": "ijl20-test-device",
+        "hardware_serial": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 51456000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.5,
+            "gateways": [
+                {
+                    "altitude": 6,
+                    "channel": 2,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "gtw_trusted": true,
+                    "latitude": 52.210583,
+                    "location_source": "registry",
+                    "longitude": 0.09201165,
+                    "rf_chain": 1,
+                    "rssi": -97,
+                    "snr": 6.5,
+                    "time": "2019-02-06T10:38:18Z",
+                    "timestamp": 854360979
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T10:16:16.382921308Z"
+        },
+        "payload_raw": "MjUuNDg=",
+        "port": 1
+    },
+    "2": {
+        "app_id": "ijl20-test-app",
+        "counter": 40,
+        "dev_id": "ijl20-test-device",
+        "hardware_serial": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 51456000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 867.3,
+            "gateways": [
+                {
+                    "altitude": 6,
+                    "channel": 4,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "gtw_trusted": true,
+                    "latitude": 52.210583,
+                    "location_source": "registry",
+                    "longitude": 0.09201165,
+                    "rf_chain": 0,
+                    "rssi": -91,
+                    "snr": 9.25,
+                    "time": "2019-02-06T10:38:51Z",
+                    "timestamp": 887511323
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T10:16:49.528768545Z"
+        },
+        "payload_raw": "MjUuNDg=",
+        "port": 1
+    }
+}

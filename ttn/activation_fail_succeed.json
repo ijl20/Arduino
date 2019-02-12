@@ -1,0 +1,339 @@
+{
+    "01": "ijl20-test-app/devices/ijl20-test-device/events/activations",
+    "02": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "26012066",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.1,
+            "gateways": [
+                {
+                    "channel": 0,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -101,
+                    "snr": 7,
+                    "time": "2019-02-06T10:12:10Z",
+                    "timestamp": 3581138347
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:50:08.193745825Z"
+        }
+    },
+    "03": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "26012C51",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.1,
+            "gateways": [
+                {
+                    "channel": 0,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -99,
+                    "snr": 7.25,
+                    "time": "2019-02-06T10:12:16Z",
+                    "timestamp": 3587672971
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:50:14.732955232Z"
+        }
+    },
+    "04": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "260126B1",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.1,
+            "gateways": [
+                {
+                    "channel": 0,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -99,
+                    "snr": 6.75,
+                    "time": "2019-02-06T10:12:23Z",
+                    "timestamp": 3594217723
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:50:21.275584435Z"
+        }
+    },
+    "05": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "26012458",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.5,
+            "gateways": [
+                {
+                    "channel": 2,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -108,
+                    "snr": -4,
+                    "time": "2019-02-06T10:12:30Z",
+                    "timestamp": 3600752211
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:50:27.926824102Z"
+        }
+    },
+    "06": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "26012C4E",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.1,
+            "gateways": [
+                {
+                    "channel": 0,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -100,
+                    "snr": 5.5,
+                    "time": "2019-02-06T10:13:07Z",
+                    "timestamp": 3638326707
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:51:05.375861782Z"
+        }
+    },
+    "07": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "260129CE",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.3,
+            "gateways": [
+                {
+                    "channel": 1,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -103,
+                    "snr": 2,
+                    "time": "2019-02-06T10:13:14Z",
+                    "timestamp": 3644861099
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:51:11.927855574Z"
+        }
+    },
+    "08": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "2601264C",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.5,
+            "gateways": [
+                {
+                    "channel": 2,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -100,
+                    "snr": 5,
+                    "time": "2019-02-06T10:13:51Z",
+                    "timestamp": 3682436971
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:51:49.491560111Z"
+        }
+    },
+    "09": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "260128DF",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.1,
+            "gateways": [
+                {
+                    "channel": 0,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -96,
+                    "snr": 8.5,
+                    "time": "2019-02-06T10:13:57Z",
+                    "timestamp": 3687855835
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:51:54.928441399Z"
+        }
+    },
+    "10": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "260123B9",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.3,
+            "gateways": [
+                {
+                    "channel": 1,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -101,
+                    "snr": 5.75,
+                    "time": "2019-02-06T10:14:34Z",
+                    "timestamp": 3725430435
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:52:32.489315339Z"
+        }
+    },
+    "11": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "2601272F",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.5,
+            "gateways": [
+                {
+                    "channel": 2,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -106,
+                    "snr": 0.75,
+                    "time": "2019-02-06T10:14:41Z",
+                    "timestamp": 3731964683
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:52:39.043311828Z"
+        }
+    },
+    "12": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "26012116",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.1,
+            "gateways": [
+                {
+                    "channel": 0,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -100,
+                    "snr": 7,
+                    "time": "2019-02-06T10:15:18Z",
+                    "timestamp": 3769538891
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:53:16.594489681Z"
+        }
+    },
+    "13": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "260129D2",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.5,
+            "gateways": [
+                {
+                    "channel": 2,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -106,
+                    "snr": 0.5,
+                    "time": "2019-02-06T10:15:25Z",
+                    "timestamp": 3776073331
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:53:23.335321735Z"
+        }
+    },
+    "14": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "2601265C",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.5,
+            "gateways": [
+                {
+                    "channel": 2,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -105,
+                    "snr": 1.5,
+                    "time": "2019-02-06T10:16:02Z",
+                    "timestamp": 3813646995
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:54:00.702951975Z"
+        }
+    },
+    "15": {
+        "app_eui": "70B3D57ED00176A7",
+        "dev_addr": "2601297A",
+        "dev_eui": "763A53FAB342FBD8",
+        "metadata": {
+            "airtime": 25856000,
+            "coding_rate": "4/5",
+            "data_rate": "SF7BW125",
+            "frequency": 868.1,
+            "gateways": [
+                {
+                    "channel": 0,
+                    "gtw_id": "smart-cambridge-wgb-2",
+                    "rf_chain": 1,
+                    "rssi": -99,
+                    "snr": 7.5,
+                    "time": "2019-02-06T10:16:09Z",
+                    "timestamp": 3820181011
+                }
+            ],
+            "modulation": "LORA",
+            "time": "2019-02-06T09:54:07.237108664Z"
+        }
+    }
+}
